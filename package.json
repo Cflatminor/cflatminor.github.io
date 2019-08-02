@@ -1,0 +1,25 @@
+{
+  "name": "github.io",
+  "version": "1.0.0",
+  "description": "github.io promo page",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cflatminor/cflatminor.github.io.git"
+  },
+  "keywords": [
+    "promo"
+  ],
+  "author": "roman.vorontsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cflatminor/cflatminor.github.io/issues"
+  },
+  "homepage": "https://github.com/Cflatminor/cflatminor.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
